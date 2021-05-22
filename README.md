@@ -1,4 +1,4 @@
-# <img src="https://github.com/allansmiff/allansmiff/blob/main/language-logo-python-44976.png" width="25">    Hi, I'm Allan! :D
+# <img src="https://github.com/allansmiff/allansmiff/blob/main/language-logo-python-44976.png" width="25">    Hi, I'm Allan! :D  <img  src="https://github.com/allansmiff/allansmiff/blob/main/Tech-Icon.png" width="35">
 
 
 <img src="https://github.com/allansmiff/allansmiff/blob/main/Allan%20Cliente.png" width="450">
