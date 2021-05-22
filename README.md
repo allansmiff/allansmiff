@@ -8,3 +8,11 @@
 I'm a python :snake: student. I have been using Python since 2019.
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allansmiff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Allan Smiff GitHub stats](https://github-readme-stats.vercel.app/api?username=allansmiff&show_icons=true&theme=radical)
+
+
+
+
