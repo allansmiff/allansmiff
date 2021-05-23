@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><img src="https://github.com/allansmiff/allansmiff/blob/main/language-logo-python-44976.png" width="25"> Hi, I'm Allan</h1>
-<h3 align="center">A passionate Python developer from Brasil</h3>
+<h3 align="center">A passionate Python developer from Brazil</h3>
 
 
 <h1 align="center"><img src="https://github.com/allansmiff/allansmiff/blob/main/Allan%20Cliente.png" width="450"></h1>
